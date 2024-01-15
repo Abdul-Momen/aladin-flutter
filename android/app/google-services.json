@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837585193273",
+    "project_id": "hazadeals-e4376",
+    "storage_bucket": "hazadeals-e4376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837585193273:android:2480c24c3e78e65b05c0e8",
+        "android_client_info": {
+          "package_name": "com.aladin.hazadeals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBE0p-Beib9Y3U8IoY5WvCU8bDLwHY0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837585193273:android:9feee018fae2fd3e05c0e8",
+        "android_client_info": {
+          "package_name": "com.example.aladin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBE0p-Beib9Y3U8IoY5WvCU8bDLwHY0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
